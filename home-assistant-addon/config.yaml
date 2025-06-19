@@ -1,9 +1,9 @@
 ---
-name: "HomeConnect2MQTT"
+name: "HomeConnect2MQTT-fork"
 description: "View and control HomeConnect appliances over the local network."
-version: "v0.4.5"
+version: "v0.4.6-beta.1"
 slug: "hcpy"
-image: ghcr.io/hcpy2-0/hcpy
+image: ghcr.io/cibernox/hcpy
 init: false
 arch:
   - armhf
