@@ -2,3 +2,4 @@
 name: HCPY-fork
 url: https://github.com/cibernox/hcpy
 maintainer: pmagyar, Meatballs1
+description: "HomeConnect2MQTT fork for Home Assistant"
