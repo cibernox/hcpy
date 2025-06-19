@@ -21,7 +21,7 @@ options:
   HCPY_MQTT_HOST: core-mosquitto
   HCPY_MQTT_PORT: 1883
   HCPY_MQTT_PREFIX: "homeassistant/"
-  HCPY_MQTT_USERNAME: ""
+  HCPY_MQTT_USERNAME: "mosquito"
   HCPY_MQTT_PASSWORD: ""
   HCPY_MQTT_SSL: false
   HCPY_MQTT_CAFILE: ""
