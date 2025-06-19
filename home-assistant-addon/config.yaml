@@ -14,7 +14,7 @@ arch:
 map:
   - addon_config:rw
   - share
-url: https://github.com/hcpy2-0/hcpy
+url: https://github.com/cibernox/hcpy
 options:
   HCPY_DEVICES_FILE: "/config/devices.json"
   HCPY_DISCOVERY_FILE: "/config/discovery.yaml"
