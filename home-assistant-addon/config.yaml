@@ -18,9 +18,9 @@ url: https://github.com/cibernox/hcpy
 options:
   HCPY_DEVICES_FILE: "/config/devices.json"
   HCPY_DISCOVERY_FILE: "/config/discovery.yaml"
-  HCPY_MQTT_HOST: localhost
+  HCPY_MQTT_HOST: core-mosquitto
   HCPY_MQTT_PORT: 1883
-  HCPY_MQTT_PREFIX: "homeconnect/"
+  HCPY_MQTT_PREFIX: "homeassistant/"
   HCPY_MQTT_USERNAME: ""
   HCPY_MQTT_PASSWORD: ""
   HCPY_MQTT_SSL: false
@@ -30,7 +30,7 @@ options:
   HCPY_MQTT_CLIENTNAME: "hcpy1"
   HCPY_HA_DISCOVERY: true
   HCPY_DOMAIN_SUFFIX: ""
-  HCPY_DEBUG: false
+  HCPY_DEBUG: true
   HCPY_EVENTS_AS_SENSORS: false
 schema:
   HCPY_DEVICES_FILE: str
