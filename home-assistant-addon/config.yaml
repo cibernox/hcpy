@@ -1,7 +1,7 @@
 ---
 name: "HomeConnect2MQTT-fork"
 description: "View and control HomeConnect appliances over the local network."
-version: "v0.4.6-beta.2"
+version: "v0.4.6-beta.3"
 slug: "hcpy"
 image: cibernox/hcpy
 init: false
